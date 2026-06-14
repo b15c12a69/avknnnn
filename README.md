@@ -1,1 +1,40 @@
-![Banner](https://capsule-render.vercel.app/api?type=slice&color=8a2be2,4169e1&text=avknnnn&fontColor=ffffff&fontName=Alfa%20Slab%20One&fontSize=70&height=180&cacheBust=avknnnn1)
+=# 🪐 `avknnn // profile`
+
+![Banner](https://capsule-render.vercel.app/api?type=slice&color=000000,ff0055&text=avknnn&fontColor=ffffff&fontName=Alfa%20Slab%20One&fontSize=65&height=180&cacheBust=avknnn_cyber_update)
+
+### 🛠️ [tech_stack]
+`python` `pycharm` `cuda_acceleration` `kali_linux` `cloud_computing` `windows` `git`
+
+---
+
+### 🚀 [activity]
+- **now coding:** ковыряю скрипты на Python, настраиваю деплой в облака (Cloud) и тестирую утилиты в Kali.
+- **night routine:** если консоль сыпет ошибками - седня без сна. Буду сидеть до утра, пока софтина не заведется на GPU.
+
+### 🎮 [gaming_mode]
+- **CS2 core:** катаю катки, пока компилится код. Главное — не словить вак за запущенный на фоне питоновский софт
+- **AI tester:** кручу real-time face-swap приложения и смотрю, до чего дошел прогресс.
+
+---
+
+### 📂 [current_projects]
+- 🛡️ **Kali Linux & SecOps Lab** — разворачиваю тестовые окружения, разбираюсь с облачной безопасностью и кручу утилиты для анализа защищенности. 
+- 🤖 **Deep-Live-Cam Setup** — успешная победа над консолью, раскидка кучу DLL и cuDNN библиотек вручную и заставить face-swap работать на полную мощность через видеокарту, а не грузить проц на 100%. 
+
+### 🎯 [learning_goals]
+- [ ] Написать свой первый облачный скрипт для автоматизации задач в Cloud-инфраструктуре.
+- [X] Глубже зарыться в инструментарий Kali Linux (Nmap, Metasploit, Wireshark) и автоматизировать рутину на Python.
+- [ ] Понять, как ИИ-модели оптимизируют под TensorRT, чтобы выжимать максимум FPS из железа.
+
+### 🚩 [my_coding_redflags]
+- Запускаю тяжелый перебор или сканеры в Kali, забыв проверить нагрузку, и удивляюсь, почему всё зависло.
+- Создаю виртуальное окружение `.venv` чисто на автомате, но иногда забываю его активировать и пару минут туплю, почему не ставятся библиотеки. -.-
+- Трачу на кастомизацию темы в PyCharm и оформление профиля GitHub больше времени, чем на сам кодинг. 
+
+---
+
+### 🔋 [system_status]
+- **Energy:** 🟥 15% *(требуется flash lime)*
+- **Kali Linux Skills:** 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ *(в процессе хакинга)*
+- **CUDA skills:** 🟩 100% *(библиотеки раскиданы руками, всё летает)*
+- **Motivation:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%
